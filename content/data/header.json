@@ -1,16 +1,4 @@
 {
-    "logo": {
-        "url": "/images/logo negativo tdodoavanti-01.png",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
             "label": "Pricing",
