@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Todoavanti X Alex PerezIzarra
+      text: TODOAVANTI
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
